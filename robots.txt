@@ -1,0 +1,44 @@
+# =============================================================
+# ESCUDO ANTI-GOOGLE: BLOQUEO DE RASTREO
+# Este archivo indica a los buscadores que no indexen los PDFs <-- Buscadores Tradicionales
+
+User-agent: *
+Disallow: /
+
+# =============================================================
+# BLOQUEO TOTAL: BUSCADORES TRADICIONALES
+# =============================================================
+User-agent: *
+Disallow: /
+
+#                                          ....................
+# BLOQUEO RADICAL: IA, SCRAPING Y COMPLIANCE
+# Bloquea explícitas de OpenAI, Google AI, Anthropic y otros
+
+# ChatGPT (OpenAI)
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+# Google Gemini / AI
+User-agent: Google-Extended
+Disallow: /
+
+# Claude (Anthropic)
+User-agent: AnthropicCrawler
+Disallow: /
+
+# Apple AI
+User-agent: Applebot-Extended
+Disallow: /
+
+# CoPilot / Bing AI
+User-agent: BingPreview
+Disallow: /
+
+# Rastreadores comunes de datos y cumplimiento (Scrapers masivos)
+User-agent: CCBot
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
