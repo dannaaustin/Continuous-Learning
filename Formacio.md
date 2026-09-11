@@ -1,5 +1,5 @@
 # 
-Bon dia, *Moin* ! Soy Danna "Austin"
+Bon dia, *Moin* ! Soy Danna!
 
 
 <!-- NOTA PROPIA: Building structured data workflows (ETL concepts, cloud fundamentals). -->
@@ -49,43 +49,40 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
 
 ### 🛡️ Cybersecurity / Ciberseguridad
 * Curso de Ciberseguridad — *Accenture*
-  👉 [View](../Continuous-Learning/blob/main/Accenture_Ciberseguridad.pdf)
+  👉 [View](Accenture_Ciberseguridad.pdf)
 * Programa de Ciberseguridad — *IBM & Banco Santander*
-  👉 [View](../Continuous-Learning/blob/main/IBM_Ciberseguridad.Santander.pdf)
+  👉 [View](IBM_Ciberseguridad.Santander.pdf)
 * Especialización en Ciberseguridad — *Universitat Politècnica de Catalunya (UPC)*
-  👉 [View](../Continuous-Learning/blob/main/UPC_Ciberseguridad.pdf)
+  👉 [View](UPC_Ciberseguridad.pdf)
 * Fundamentos de Ciberseguridad en Cadena de Suministro — *Certified Specialist Bureau (CSB Global)*
-  👉 [View](../Continuous-Learning/blob/main/CSB%20Global-Fundamentos-de-ciberseguridad-aplicada-a-la-cadena-de-suministro-CERTIFICATE-CSB-GLOBAL-CIBERSEGURIDAD-APLICADA-A-LA-CDS-Certified%20Specialist%20Bureau.pdf)
+  👉 [View](CSB%20Global-Fundamentos-de-ciberseguridad-aplicada-a-la-cadena-de-suministro-CERTIFICATE-CSB-GLOBAL-CIBERSEGURIDAD-APLICADA-A-LA-CDS-Certified%20Specialist%20Bureau.pdf)
 
 ### 📊 Data Analytics & AI / Analítica de Datos e IA
-* **Certificado Profesional en Data Analytics** (PCDA)* — *IBM*
-  👉 [View](../Continuous-Learning/blob/main/IBM_Data_Analytics_certificado_PCDA_DANNA_VALL%C3%88S.pdf)
+* **Certificado Profesional en Data Analytics (PCDA)** — *IBM*
+  👉 [View](IBM_Data%20Analytics_certificado_PCDA_DANNA%20V.pdf)
 * Fundamentos de Análisis de Datos — *IT Academy (Barcelona Activa)*
-  👉 [View](../Continuous-Learning/blob/main/IT%20Academy_Fonaments%20Analis_de%20Datos.pdf)
+  👉 [View](IT%20Academy_Fonaments%20Analis_de%20Datos.pdf)
 * Fundamentos de IA para Transformación Digital — *Certified Specialist Bureau (CSB Global)*
-  👉 [View](../Continuous-Learning/blob/main/CSB%20Global-Fundamentos-de-IA-como-Herramienta-de-con-Digital-CERTIFICATE-CSB-GLOBAL-FUNDAMENTOS-IA-HERRAMIENTAS-TRANSFORMACION-DIGITAL_Certified%20Specialist%20Bureau.pdf)
+  👉 [View](CSB%20Global-Fundamentos-de-IA-como-Herramienta-de-con-Digital-CERTIFICATE-CSB-GLOBAL-FUNDAMENTOS-IA-HERRAMIENTAS-TRANSFORMACION-DIGITAL_Certified%20Specialist%20Bureau.pdf)
 * IA en el Tercer Sector — *Fundació Esplai Microsoft*
-  👉 [View](../Continuous-Learning/blob/main/Esplai-Microsft_IA%20Tercer%20Sector.pdf)
+  👉 [View](Esplai-Microsft_IA%20Tercer%20Sector.pdf)
 * Programa de IA Generativa — *Escuela de Organización Industrial (EOI)*
-  👉 [View](../Continuous-Learning/blob/main/EOI_Cert_Mooc_Gen-Dig_Danna%20Vall%C3%A8s.pdf)
-* Agentes del Cambio G2 — *Escuela de Organización Industrial (EOI)*
-  👉 [View](../Continuous-Learning/blob/main/EOI_Agentes%20del%20Cambio%20G2%20(Danna).pdf)
+  👉 [View](EOI_Cert_Mooc_Gen-Dig_Danna%20Vall%C3%A8s.pdf)
 
 ### 🐍 Programming / Programación
 * Programación en Python — *IBM & BeJob*
-  👉 [View](../Continuous-Learning/blob/main/Python_IBM_Bejob_Danna_V.pdf)
+  👉 [View](Python_IBM_Bejob_Danna_V.pdf)
 * Curso de Python — *LaSalle Universitat Ramon Llull*
-  👉 [View](../Continuous-Learning/blob/main/Python_LaSalle_Danna_Vall%C3%A8s_T20250053.pdf)
+  👉 [View](Python_LaSalle_Danna_Vall%C3%A8s_T20250053.pdf)
 
 ### 📐 Management & Strategy / Gestión y Estrategia
 * Dirección Directiva / Transformación Digital — *EAE Business School*
-  👉 [View](../Continuous-Learning/blob/main/EAE_Transformacion%20Digital%20Directivos.pdf)
+  👉 [View](EAE_Transformacion%20Digital%20Directivos.pdf)
 * Project Management & Agile Methodologies — *Banco Santander*
-  👉 [View](../Continuous-Learning/blob/main/Project%20Managment%20%26%20Agile.Santander.pdf)
+  👉 [View](Project%20Managment%20%26%20Agile.Santander.pdf)
 * Project Management & Team Management — *Banco Santander*
-  👉 [View](../Continuous-Learning/blob/main/Project%20Managment%20%26%20Team%20Managment.Santander.pdf)
+  👉 [View](Project%20Managment%20%26%20Team%20Managment.Santander.pdf)
 
 ### 🏛️ Academic & Institutional / Registro Institucional
 * **Representant dels Estudiants** — *Claustre de la Facultat de Dret UB (Universitat de Barcelona)*
-  👉 [View](../Continuous-Learning/blob/main/SIGNADA_Resoluci%C3%B3_Proclamaci%C3%B3%20de%20candidatures%20estudiants%20CLAUSTRE_DRET.pdf)
-
+  👉 [View](SIGNADA_Resoluci%C3%B3_Proclamaci%C3%B3%20de%20candidatures%20estudiants%20CLAUSTRE_DRET.pdf)
