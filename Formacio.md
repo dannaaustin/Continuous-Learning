@@ -1,15 +1,8 @@
-# h
-
+# 
 Bon dia, *Moin* ! Soy Danna "Austin"
 
 
 <!-- NOTA PROPIA: Building structured data workflows (ETL concepts, cloud fundamentals). -->
-ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
-
- <p align="center">
-  <img src="%20.jpg" width="400" alt="Mi Foto de Perfil">
-</p>
-
 ---
 
 ```python
@@ -23,13 +16,6 @@ def about_me():
 
 Este directorio refleja mi perfil **autodidacta** y una mentalidad orientada al **reskilling y upskilling** constante. Más allá de los títulos, es la prueba de una inquietud **polímata** por conectar conocimientos profundos sobre campos diversos, aportando valor real, rigor y eficiencia en la revisión de entornos críticos y sector público desde el primer día.
 
-### ⚙️ Engineering & Agile
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Scrum](https://shields.io)
-![Jira](https://shields.io)
-![Google Cloud](https://shields.io)
-![Azure](https://shields.io)
 ---
 
 ## 🌍 Profile / Perfil Profesional
@@ -50,35 +36,6 @@ Este directorio refleja mi perfil **autodidacta** y una mentalidad orientada al 
 | **Business Strategy** | Habilidades de Negocio (ej. Project Management, etc.) |
 | **Methodologies** | Agile • Scrum • Kanban • Data-driven Decision Making |
 
-
-
----
-
-## 🧭 Career Journey
-
-**[EN]** My professional evolution reflects a strategic transition towards data analytics, with a strong focus on designing systems and automated workflows that optimize and support business decisions. Every technical tool I use is grounded in a real, actionable commercial objective.
-
-**[ES]** Mi evolución profesional refleja una transición estratégica hacia la Analítica de Datos, con un fuerte enfoque en el diseño de sistemas y flujos de trabajo automatizados que optimizan y respaldan las decisiones empresariales. 
-Cada herramienta técnica que utilizo está fundamentada en un objetivo real y accionable.
-
----
-
-## 🎓 Education / Educación
-
-* **Data Analytics Bootcamp** — IT Academy (Barcelona Activa)
-* **Grado** — Universidad
-
----
-
-## 🌍 Languages / Idiomas
-
-* **Catalan / Catalán:** Native / Nativo
-* **Spanish / Español:** Native / Nativo
-* **English / Inglés:** Advanced (C1) / Avanzado
-* **German / Alemán:** A2
-
-
----
 
 ---
 
